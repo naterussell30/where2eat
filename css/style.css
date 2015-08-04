@@ -1,0 +1,26 @@
+.part {
+	height: 60px;
+	width: 643px;
+	background: white;
+}
+
+.nate {
+	height: 40px;
+	background: white;
+	width: 643px;
+}
+
+.space {
+	position: center;
+	margin: fixed;
+}
+
+.big {
+	height: 200px;
+	background: white;
+	width: 600px;
+	margin-top: 200px;
+	
+}
+
+

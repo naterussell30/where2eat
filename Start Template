@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>where2eat4</title>
+  <link rel="stylesheet" type="text/css" href="css/ratchet.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body>
+
+  <header class="bar bar-nav">
+    <h1 class="title">Where2EAT</h1>
+  </header>
+  <div class="nate"></div>
+
+</body>
+</html>
+
+
+
+      <a href="randomize.html">
+        <button class="btn btn-negative btn-block btn-outlined">RANDOMIZE WITH FILTERS</button>
+      </a>
+
+
+      <div class="segmented-control">
+        <a class="control-item active">Type of Food</a>
+        <a class="control-item" href="type-of-rest.html">Type of Restaurant</a>
+        <a class="control-item" href="wait-time.html">Wait Time</a>
+        <a class="control-item" href="quality.html">Quality</a>
+        <a class="control-item" href="eliminate-rest.html">Eliminate Restaurants</a>
+      </div>
